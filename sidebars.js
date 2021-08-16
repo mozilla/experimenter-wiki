@@ -94,6 +94,11 @@ module.exports = {
           label: "Feature Variables API",
           href: "feature-variables-and-me",
         },
+        {
+          type: "link",
+          label: "Adding custom targeting attributes",
+          href: "ios-custom-targeting"
+        }
       ],
     },
     {
